@@ -158,7 +158,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
-ABRAHAM JOSIAH - [Github](HTTPS://GITHUB.COM/DISTINGUISHAJ] / 
+ABRAHAM JOSIAH - [Github](https://github.com/DistinguishAJ) 
 
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copyright protection. 
